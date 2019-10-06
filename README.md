@@ -3,25 +3,20 @@ Genotyping and genomic selection plugins for Ion Torrent NGS platform.
 
 
 ## ABH plugin
-version: 1.0
-
-Instruction manual  
-https://github.com/DEMETER298/IonBreeders_ABH  
+version: 1.0  
+[Instruction manual](https://github.com/DEMETER298/IonBreeders_ABH)  
 
 
 ## IMPUTATION plugin
 
 version: 1.0
-
-Instruction manual  
-https://github.com/DEMETER298/IonBreeders_IMPUTATION  
+[Instruction manual](https://github.com/DEMETER298/IonBreeders_IMPUTATION)  
 
 
 ## GENOMIC SELECTION plugin
-version: 1.0
 
-Instruction manual  
-https://github.com/DEMETER298/IonBreeders_GenomicSelection  
+version: 1.0  
+[Instruction manual](https://github.com/DEMETER298/IonBreeders_GenomicSelection)  
 
 ## Citing IonBreeders
 Ogiso-Tanaka E, Yabe S and Tanaka T (2019) IonBreeders: semi-automated bioinformatics plugins toward genomics-assisted breeding. Breeding Science (in submitted).  
