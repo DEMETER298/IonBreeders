@@ -9,7 +9,7 @@ version: 1.0
 
 ## IMPUTATION plugin
 
-version: 1.0
+version: 1.0  
 [Instruction manual](https://github.com/DEMETER298/IonBreeders_IMPUTATION)  
 
 
@@ -19,8 +19,10 @@ version: 1.0
 [Instruction manual](https://github.com/DEMETER298/IonBreeders_GenomicSelection)  
 
 ## Citing IonBreeders
-Ogiso-Tanaka E, Yabe S and Tanaka T (2019) IonBreeders: semi-automated bioinformatics plugins toward genomics-assisted breeding. Breeding Science (in submitted).  
-  
+IonBreeders: semi-automated bioinformatics plugins toward genomics-assisted breeding    
+Ogiso-Tanaka E, Yabe S and Tanaka T  
+Breeding Science (in submitted)   
+
 ## License
 NARO NON-COMMERCIAL LICENSE AGREEMENT Version 1.0
 
