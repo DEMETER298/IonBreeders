@@ -12,8 +12,11 @@ version: 1.0
 version: 1.0  
 [Instruction manual](https://github.com/DEMETER298/IonBreeders_IMPUTATION)  
 
+ak_genotype.csv file is test data provided from [Uga et al., (2013)](https://www.nature.com/articles/srep03040). (SNPs and SSR marker from rice).
+
 
 ## GENOMIC SELECTION plugin
+
 
 version: 1.0  
 [Instruction manual](https://github.com/DEMETER298/IonBreeders_GenomicSelection)  
