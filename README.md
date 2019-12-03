@@ -15,11 +15,17 @@ version: 1.0
 ak_genotype.csv file is test data provided from [Uga et al., (2013)](https://www.nature.com/articles/srep03040). (SNPs and SSR marker from rice).
 
 
-## GENOMIC SELECTION plugin
 
+## GENOMIC PREDICTION plugin
 
 version: 1.0  
 [Instruction manual](https://github.com/DEMETER298/IonBreeders_GenomicSelection)  
+
+ak_genotype_output_training.csv is genotype data for training (AA/BB/AB format of IMPUTATION plugin output).  
+ak_phenotype_training.csv is phenotype data for training  (AA/BB/AB format of IMPUTATION plugin output).  
+ak_genotype_output_test.csv is genotype data for test data to predict genotypic values.  
+These test data also provided from [Uga et al., (2013)](https://www.nature.com/articles/srep03040).  
+GENOMIC PREDICTION plugin can be also accepted ABH genotype format file.
 
 ## Citing IonBreeders
 IonBreeders: semi-automated bioinformatics plugins toward genomics-assisted breeding    
