@@ -38,6 +38,14 @@ IonBreeders: semi-automated bioinformatics plugins toward genomics-assisted bree
 Ogiso-Tanaka E*, Yabe S and Tanaka T.  
 Breeding Science (in submitted)   
 
+
+# Contact
+Eri Ogiso-Tanaka, Ph.D. demeter(at)affrc.go.jp
+
+Institute of Crop Science / National Agriculture and Food Research Organization
+2-1-2, Kannondai, Tsukuba, Ibaraki 305-8518, Japan
+
+
 ## License
 NARO NON-COMMERCIAL LICENSE AGREEMENT Version 1.0
 
