@@ -1,5 +1,6 @@
 # IonBreeders version information
 Genotyping and genomic selection plugins for Ion Torrent NGS platform.  
+[Japanese Instruction manual](https://github.com/DEMETER298/IonBreeders/wiki)
 
 
 ## ABH plugin
