@@ -4,13 +4,13 @@ Genotyping and genomic selection plugins for Ion Torrent NGS platform.
 
 
 ## ABH plugin
-version: 1.0  
+version: 1.01  (March 12 2020 update)  
 [Instruction manual](https://github.com/DEMETER298/IonBreeders_ABH)  
 
 
 ## IMPUTATION plugin
 
-version: 1.0  
+version: 1.01  (March 12 2020 update)  
 [Instruction manual](https://github.com/DEMETER298/IonBreeders_IMPUTATION)  
 
 `ak_genotype.csv` file is test data (ABH format) provided from [Uga et al., (2013)](https://www.nature.com/articles/srep03040). (SNPs and SSR marker from rice).
