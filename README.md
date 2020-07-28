@@ -42,7 +42,7 @@ Breeding Science (in submitted)
 
 ## Contact
 Eri Ogiso-Tanaka, Ph.D.   
-demeter(at)affrc.go.jp  
+demeter298(at)gmail.com
 
 Institute of Crop Science / National Agriculture and Food Research Organization  
 2-1-2, Kannondai, Tsukuba, Ibaraki 305-8518, Japan  
