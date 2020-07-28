@@ -35,9 +35,13 @@ VCF2ABH: converter from VCF to ABH format
 
 
 ## Citing IonBreeders
-IonBreeders: semi-automated bioinformatics plugins toward genomics-assisted breeding    
-Ogiso-Tanaka E*, Yabe S and Tanaka T.  
-Breeding Science (in submitted)   
+Ogiso-Tanaka E, Yabe S and Tanaka T (2020)
+
+**IonBreeders: automated bioinformatics plugins toward genomics-assisted breeding.**
+
+Breeding Science 70（３）: 396-401.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7372021/
 
 
 ## Contact
